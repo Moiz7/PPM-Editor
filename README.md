@@ -1,0 +1,2 @@
+# PPM-Editor
+To create a PPM Image editor with the functionality to :negate_red - To negate the red number of each pixel. Negate_green, as above but change the green. Negate_blue, as above but change the blue. Flip_horizontal that flips each row horizontally. Grey_scale sets each pixel value to the average of the three. Flatten_red sets the red value to zero. Flatten_green sets the green value to zero. Flatten_blue sets the blue value to zero
